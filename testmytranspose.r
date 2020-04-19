@@ -1,4 +1,3 @@
-setwd('C:/Users/sjhty/OneDrive - incubate B2C technologies/바탕 화면/석사   2020-1학기/과제/창의논문과제/이기천 교수님')
 source('mytranspose.r')
 
 
